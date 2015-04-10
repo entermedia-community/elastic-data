@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<asset name="artbeats_red_m480pSMALL.mov" id="AUylhVE8OlsiThKd8lH9">
+  <category id="users_201504_26_20f050361"/>
+  <property name="audiocodec"><![CDATA[aac [mp4a / 0x6134706D]
+      44100 Hz]]></property>
+  <property name="assetmodificationdate">2015-04-10T22:48:39.000Z</property>
+  <property name="importstatus">complete</property>
+  <property name="assetviews">1</property>
+  <property name="assetaddeddate">2015-04-10T22:48:39.000Z</property>
+  <property name="height">480</property>
+  <property name="namesorted">artbeats_red_m480pSMALL.mov</property>
+  <property name="description">AUylhVE8OlsiThKd8lH9 artbeats_red_m480pSMALL.mov 20f050361 admin Artbeats RED Demo Reel users_201504_26_20f050361 Index users 20f050361 26 201504 users 201504 26 20f050361</property>
+  <property name="viewasset">group_administrators | true | user_admin</property>
+  <property name="catalogid">qa/catalog</property>
+  <property name="width">853</property>
+  <property name="publisheds3">false</property>
+  <property name="copyrightnotice">© Artbeats® 2008</property>
+  <property name="filesize">1507328</property>
+  <property name="owner">admin</property>
+  <property name="isfolder">true</property>
+  <property name="previewstatus">2</property>
+  <property name="shoppingcarttarget">false</property>
+  <property name="primaryfile">artbeats_red_m480pSMALL.mov</property>
+  <property name="assetcreationdate">2008-11-01T00:26:24.000Z</property>
+  <property name="length">128</property>
+  <property name="assettype">video</property>
+  <property name="framerate">29.97</property>
+  <property name="previewtatus">0</property>
+  <property name="fileformat">mov</property>
+  <property name="pushstatus">resend</property>
+  <property name="pages">0</property>
+  <property name="category-exact">users_201504_26_20f050361</property>
+  <property name="videocodec"><![CDATA[h264 (Main) [avc1 / 0x31637661]
+      yuv420p]]></property>
+  <property name="assettitle">Artbeats RED Demo Reel</property>
+  <property name="duration">00:02:07.80</property>
+  <property name="datatype">original</property>
+  <property name="editstatus">1</property>
+  <property name="assetvotes">0</property>
+  <property name=".version">3</property>
+  <property name="recordmodificationdate">2015-04-10 18:49:03 -0400</property>
+</asset>

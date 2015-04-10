@@ -1,0 +1,81 @@
+
+<catalog id="index" name="Index">
+  <property id="categoryhome">/qa/catalog/categories/</property>
+  <catalog id="users" name="users">
+    <catalog id="users_201504" name="201504">
+      <catalog id="users_201504_03" name="03">
+        <catalog id="users_201504_03_5b303a1ab" name="5b303a1ab"/>
+      </catalog>
+      <catalog id="users_201504_06" name="06">
+        <catalog id="users_201504_06_aa9a12a96" name="aa9a12a96"/>
+      </catalog>
+      <catalog id="users_201504_26" name="26">
+        <catalog id="users_201504_26_20f050361" name="20f050361"/>
+      </catalog>
+      <catalog id="users_201504_3b" name="3b">
+        <catalog id="users_201504_3b_6c79150b6" name="6c79150b6"/>
+      </catalog>
+      <catalog id="users_201504_3c" name="3c">
+        <catalog id="users_201504_3c_3e221d1ba" name="3e221d1ba"/>
+      </catalog>
+      <catalog id="users_201504_57" name="57">
+        <catalog id="users_201504_57_add1718f3" name="add1718f3"/>
+      </catalog>
+      <catalog id="users_201504_72" name="72">
+        <catalog id="users_201504_72_dd3a38ab1" name="dd3a38ab1"/>
+      </catalog>
+      <catalog id="users_201504_75" name="75">
+        <catalog id="users_201504_75_de8aecc91" name="de8aecc91"/>
+      </catalog>
+      <catalog id="users_201504_98" name="98">
+        <catalog id="users_201504_98_1db70aa82" name="1db70aa82"/>
+      </catalog>
+      <catalog id="users_201504_b2" name="b2">
+        <catalog id="users_201504_b2_2ad546e7e" name="2ad546e7e"/>
+      </catalog>
+      <catalog id="users_201504_b5" name="b5">
+        <catalog id="users_201504_b5_bca59cfca" name="bca59cfca"/>
+      </catalog>
+      <catalog id="users_201504_b8" name="b8">
+        <catalog id="users_201504_b8_d89592eff" name="d89592eff"/>
+      </catalog>
+      <catalog id="users_201504_c3" name="c3">
+        <catalog id="users_201504_c3_4bb5ab901" name="4bb5ab901"/>
+      </catalog>
+      <catalog id="users_201504_ca" name="ca">
+        <catalog id="users_201504_ca_9c0f66780" name="9c0f66780"/>
+      </catalog>
+      <catalog id="users_201504_cd" name="cd">
+        <catalog id="users_201504_cd_c58bd9142" name="c58bd9142"/>
+      </catalog>
+      <catalog id="users_201504_d0" name="d0">
+        <catalog id="users_201504_d0_6a2750853" name="6a2750853"/>
+      </catalog>
+      <catalog id="users_201504_d2" name="d2">
+        <catalog id="users_201504_d2_86b63a134" name="86b63a134"/>
+      </catalog>
+      <catalog id="users_201504_d3" name="d3">
+        <catalog id="users_201504_d3_a6b907821" name="a6b907821"/>
+      </catalog>
+      <catalog id="users_201504_df" name="df">
+        <catalog id="users_201504_df_371058c6b" name="371058c6b"/>
+        <catalog id="users_201504_df_e8ae36f8c" name="e8ae36f8c"/>
+      </catalog>
+      <catalog id="users_201504_e7" name="e7">
+        <catalog id="users_201504_e7_bab83ede1" name="bab83ede1"/>
+      </catalog>
+      <catalog id="users_201504_f4" name="f4">
+        <catalog id="users_201504_f4_eedd17416" name="eedd17416"/>
+      </catalog>
+      <catalog id="users_201504_fc" name="fc">
+        <catalog id="users_201504_fc_db962c36f" name="db962c36f"/>
+      </catalog>
+      <catalog id="users_201504_fd" name="fd">
+        <catalog id="users_201504_fd_b3c5e794a" name="b3c5e794a"/>
+      </catalog>
+      <catalog id="users_201504_ff" name="ff">
+        <catalog id="users_201504_ff_345fe0602" name="345fe0602"/>
+      </catalog>
+    </catalog>
+  </catalog>
+</catalog>

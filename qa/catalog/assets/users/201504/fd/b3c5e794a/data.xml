@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<asset name="bbc_earth_m480p.mov" id="AUylhP-7OlsiThKd8lHo">
+  <category id="users_201504_fd_b3c5e794a"/>
+  <property name="audiocodec"><![CDATA[aac [mp4a / 0x6134706D]
+      48000 Hz]]></property>
+  <property name="assetmodificationdate">2015-04-10T22:48:15.000Z</property>
+  <property name="importstatus">complete</property>
+  <property name="assetviews">1</property>
+  <property name="assetaddeddate">2015-04-10T22:48:15.000Z</property>
+  <property name="height">480</property>
+  <property name="namesorted">bbc_earth_m480p.mov</property>
+  <property name="description">AUylhP-7OlsiThKd8lHo bbc_earth_m480p.mov b3c5e794a admin BBC: The Biography users_201504_fd_b3c5e794a Index users fd b3c5e794a 201504 users 201504 fd b3c5e794a</property>
+  <property name="viewasset">group_administrators | true | user_admin</property>
+  <property name="catalogid">qa/catalog</property>
+  <property name="width">852</property>
+  <property name="publisheds3">false</property>
+  <property name="copyrightnotice">© Nat Geo / BBC Video</property>
+  <property name="filesize">22855129</property>
+  <property name="owner">admin</property>
+  <property name="isfolder">true</property>
+  <property name="previewstatus">2</property>
+  <property name="shoppingcarttarget">false</property>
+  <property name="primaryfile">bbc_earth_m480p.mov</property>
+  <property name="assetcreationdate">2008-07-24T23:28:11.000Z</property>
+  <property name="length">66</property>
+  <property name="assettype">video</property>
+  <property name="framerate">29.99</property>
+  <property name="previewtatus">0</property>
+  <property name="fileformat">mov</property>
+  <property name="pushstatus">resend</property>
+  <property name="pages">0</property>
+  <property name="category-exact">users_201504_fd_b3c5e794a</property>
+  <property name="videocodec"><![CDATA[h264 (Main) [avc1 / 0x31637661]
+      yuv420p]]></property>
+  <property name="assettitle">BBC: The Biography</property>
+  <property name="duration">00:01:06.13</property>
+  <property name="datatype">original</property>
+  <property name="editstatus">1</property>
+  <property name="assetvotes">0</property>
+  <property name=".version">3</property>
+  <property name="recordmodificationdate">2015-04-10 18:49:31 -0400</property>
+</asset>

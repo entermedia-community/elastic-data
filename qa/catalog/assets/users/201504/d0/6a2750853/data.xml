@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<asset name="em500testvideo.flv" id="AUylhaUCOlsiThKd8lJH">
+  <category id="users_201504_d0_6a2750853"/>
+  <property name="audiocodec"><![CDATA[mp3
+      44100 Hz]]></property>
+  <property name="assetmodificationdate">2015-04-10T22:49:01.000Z</property>
+  <property name="isfolder">true</property>
+  <property name="importstatus">complete</property>
+  <property name="previewstatus">2</property>
+  <property name="assetviews">1</property>
+  <property name="assetaddeddate">2015-04-10T22:49:01.000Z</property>
+  <property name="height">300</property>
+  <property name="namesorted">em500testvideo.flv</property>
+  <property name="shoppingcarttarget">false</property>
+  <property name="primaryfile">em500testvideo.flv</property>
+  <property name="description">AUylhaUCOlsiThKd8lJH em500testvideo.flv 6a2750853 admin users_201504_d0_6a2750853 6a2750853 Index users 201504 d0 users 201504 d0 6a2750853</property>
+  <property name="length">25</property>
+  <property name="viewasset">group_administrators | true | user_admin</property>
+  <property name="catalogid">qa/catalog</property>
+  <property name="assettype">video</property>
+  <property name="previewtatus">0</property>
+  <property name="fileformat">flv</property>
+  <property name="pages">0</property>
+  <property name="pushstatus">resend</property>
+  <property name="width">500</property>
+  <property name="category-exact">users_201504_d0_6a2750853</property>
+  <property name="videocodec"><![CDATA[vp6f
+      yuv420p]]></property>
+  <property name="publisheds3">false</property>
+  <property name="duration">00:00:25.27</property>
+  <property name="filesize">2910173</property>
+  <property name="owner">admin</property>
+  <property name="datatype">original</property>
+  <property name="editstatus">1</property>
+  <property name="assetvotes">0</property>
+  <property name=".version">3</property>
+  <property name="recordmodificationdate">2015-04-10 18:49:38 -0400</property>
+</asset>

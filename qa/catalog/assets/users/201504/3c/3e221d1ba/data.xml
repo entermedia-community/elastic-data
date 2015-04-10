@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<asset name="Slideshow.mp4" id="AUylhQQHOlsiThKd8lHw">
+  <category id="users_201504_3c_3e221d1ba"/>
+  <property name="audiocodec"><![CDATA[aac [mp4a / 0x6134706D]
+      44100 Hz]]></property>
+  <property name="assetmodificationdate">2015-04-10T22:48:19.000Z</property>
+  <property name="importstatus">complete</property>
+  <property name="assetviews">1</property>
+  <property name="assetaddeddate">2015-04-10T22:48:19.000Z</property>
+  <property name="height">480</property>
+  <property name="namesorted">Slideshow.mp4</property>
+  <property name="description">AUylhQQHOlsiThKd8lHw Slideshow.mp4 3e221d1ba admin users_201504_3c_3e221d1ba Index 3c 3e221d1ba users 201504 users 201504 3c 3e221d1ba</property>
+  <property name="viewasset">group_administrators | true | user_admin</property>
+  <property name="catalogid">qa/catalog</property>
+  <property name="width">720</property>
+  <property name="publisheds3">false</property>
+  <property name="filesize">5376345</property>
+  <property name="owner">admin</property>
+  <property name="isfolder">true</property>
+  <property name="previewstatus">2</property>
+  <property name="shoppingcarttarget">false</property>
+  <property name="primaryfile">Slideshow.mp4</property>
+  <property name="assetcreationdate">2010-10-18T23:21:37.000Z</property>
+  <property name="length">259</property>
+  <property name="assettype">video</property>
+  <property name="framerate">15.00</property>
+  <property name="previewtatus">0</property>
+  <property name="fileformat">mp4</property>
+  <property name="pushstatus">resend</property>
+  <property name="pages">0</property>
+  <property name="category-exact">users_201504_3c_3e221d1ba</property>
+  <property name="videocodec"><![CDATA[h264 (High) [avc1 / 0x31637661]
+      yuv420p]]></property>
+  <property name="duration">00:04:18.53</property>
+  <property name="datatype">original</property>
+  <property name="editstatus">1</property>
+  <property name="assetvotes">0</property>
+  <property name=".version">3</property>
+  <property name="recordmodificationdate">2015-04-10 18:49:22 -0400</property>
+</asset>
